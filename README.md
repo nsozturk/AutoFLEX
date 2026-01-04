@@ -3,7 +3,17 @@ Auto inject **Enhanced FLEX** (with Network Export) to any iOS app!
 
 This is a modified version of FLEX that includes **Network Export** capabilities:
 
-![Export Preview](export_preview.png)
+## Screenshots
+<table>
+  <tr>
+    <td align="center"><strong>Export Menu</strong></td>
+    <td align="center"><strong>Export Filters Settings</strong></td>
+  </tr>
+  <tr>
+    <td><img width="280" alt="Export Menu" src="https://github.com/user-attachments/assets/6c27e51e-8f70-449d-a379-cdeaedf6e342" /></td>
+    <td><img width="280" alt="Export Filters" src="https://github.com/user-attachments/assets/796bdfb9-5d60-44b4-80f9-d4bfbe5c4a55" /></td>
+  </tr>
+</table>
 
 ## Features
 * **Enhanced Network Export**: Export captured requests in multiple formats (HAR, Postman, Swagger, Curl ZIP) with filters (Images, Analytics, Firebase).
