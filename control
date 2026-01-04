@@ -1,0 +1,9 @@
+Package: com.nsozturk.autoflex
+Name: AutoFLEX
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: FLEX debugging tool with enhanced network export features
+Maintainer: Enes OZTURK
+Author: Enes OZTURK
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

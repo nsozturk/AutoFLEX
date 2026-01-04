@@ -1,0 +1,17 @@
+# Build artifacts
+.theos/
+src/
+FLEX/
+packages/
+*.deb
+*.dylib
+.DS_Store
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# Project files
+autoflex.plist
